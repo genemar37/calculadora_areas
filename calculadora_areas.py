@@ -11,7 +11,6 @@ opcion_salida = "4"
 contador_cuadrado = 0
 contador_circulo = 0
 contador_triangulo = 0
-contador_figuras_totales = {contador_cuadrado, contador_circulo, contador_triangulo}
 
 
 def calculo_cuadrado (valor_lado):
